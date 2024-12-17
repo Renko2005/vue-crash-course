@@ -5,5 +5,7 @@
 
 <template>
   <Navbar />
-  <RouterView />
+  <div class="pt-16">
+    <RouterView/>
+  </div>
 </template>
